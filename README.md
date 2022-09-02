@@ -1,2 +1,2 @@
 # erlang_books
-Repositorio donde estaré subiendo código de libros de erlang.
+Repositorio donde que tiene código de erlang de libros.
